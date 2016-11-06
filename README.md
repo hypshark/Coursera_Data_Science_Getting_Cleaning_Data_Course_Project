@@ -1,0 +1,2 @@
+# Coursera_Data_Science_Getting_Cleaning_Data_Course_Project
+Getting and Cleaning Data Assignment- Wearable Computing
